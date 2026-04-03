@@ -8,6 +8,7 @@ Here are some ideas to get you started:
 
 Recommend Tools:
 - [Image Describer](https://imagedescriber.dev)
+- [Video Upscaler](https://videoupscaler.online)
 
 About Me:
 - [zazzle](https://www.zazzle.com/store/toolina/about)
