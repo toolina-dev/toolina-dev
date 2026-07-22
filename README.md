@@ -10,6 +10,7 @@ Recommend Tools:
 - [Image Describer](https://imagedescriber.dev)
 - [Video Upscaler](https://videoupscaler.online)
 - [Vedic Astrology Chart](https://vedicastrologychart.net)
+- [Vignra - blur background](https://blurbackground.vip)
 
 About Me:
 - [zazzle](https://www.zazzle.com/store/toolina/about)
